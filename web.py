@@ -21,7 +21,7 @@ def index():
                     recipients=["hawew41871@vewku.com"] )
     mail.send(msg)
 
-    return 'Hello World!!!!'
+    return 'Hello World!!'
 
 # to run the application
 # export FLASK_APP=web.py
