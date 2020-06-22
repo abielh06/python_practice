@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return 'Subscribe to Y Cubed'
+    return 'Hello World!!!!'
 
 # to run the application
 # export FLASK_APP=web.py
